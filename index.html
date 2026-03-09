@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Japon 2026 — Carnet de voyage</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="modal-overlay" class="hidden">
+    <div class="modal-content">
+      <button id="modal-close">&times;</button>
+      <h2 id="modal-city"></h2>
+      <p id="modal-dates" class="dates"></p>
+      <p id="modal-summary"></p>
+      <ul id="modal-highlights"></ul>
+      <div id="carousel-container" class="hidden">
+        <div class="carousel">
+          <div id="carousel-track"></div>
+        </div>
+        <button class="carousel-btn prev" id="carousel-prev">&#8249;</button>
+        <button class="carousel-btn next" id="carousel-next">&#8250;</button>
+        <p id="carousel-caption" class="caption"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
