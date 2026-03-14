@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cn-1",
+    "sectionAnchor": "jour-1-tokyo",
+    "afterParagraph": 3,
+    "title": "Les tatamis",
+    "text": "Le tatami est un revêtement de sol traditionnel japonais fait de paille de riz tressée. Sa taille standardisée (environ 90×180 cm) sert encore aujourd'hui d'unité de mesure pour les pièces au Japon. Dormir sur un futon posé sur des tatamis est considéré comme bénéfique pour le dos.",
+    "source": "Culture traditionnelle japonaise",
+    "confidence": "high",
+    "enabled": true
+  },
+  {
+    "id": "cn-2",
+    "sectionAnchor": "jour-2-tokyo",
+    "afterParagraph": 2,
+    "title": "La cérémonie du feu au mont Takao",
+    "text": "Le Hiwatari Matsuri (火渡り祭) est un rituel bouddhiste shugendō pratiqué au mont Takao. Les moines yamabushi marchent pieds nus sur des braises ardentes pour purifier le corps et l'esprit. Les visiteurs peuvent aussi traverser les braises refroidies après les moines.",
+    "source": "Bouddhisme shugendō",
+    "confidence": "high",
+    "enabled": true
+  },
+  {
+    "id": "cn-3",
+    "sectionAnchor": "jour-2-tokyo",
+    "afterParagraph": 6,
+    "title": "Akihabara, la Mecque de la pop culture",
+    "text": "Akihabara est passé de quartier d'électronique d'après-guerre à épicentre mondial de la culture otaku. On y trouve des magasins sur plusieurs étages dédiés aux mangas, anime, jeux vidéo et figurines. Le quartier abrite aussi des maid cafés, concept né dans les années 2000.",
+    "source": "Culture pop japonaise",
+    "confidence": "high",
+    "enabled": true
+  },
+  {
+    "id": "cn-4",
+    "sectionAnchor": "jour-3-soir-osaka",
+    "afterParagraph": 2,
+    "title": "Osaka, capitale de la street food",
+    "text": "Osaka est surnommée « la cuisine du Japon » (天下の台所). La ville est célèbre pour le takoyaki (boulettes de poulpe), l'okonomiyaki (crêpe salée) et le kushikatsu (brochettes panées). Le quartier de Dōtonbori concentre les enseignes les plus spectaculaires.",
+    "source": "Gastronomie japonaise",
+    "confidence": "high",
+    "enabled": true
+  },
+  {
+    "id": "cn-5",
+    "sectionAnchor": "jour-4-nara",
+    "afterParagraph": 3,
+    "title": "Les cerfs sacrés de Nara",
+    "text": "Les cerfs sika de Nara sont considérés comme messagers des dieux selon la tradition shintō. Protégés depuis le VIIe siècle, ils se promènent librement dans la ville. Plus de 1 200 cerfs vivent dans le parc de Nara, où les visiteurs peuvent leur offrir des « shika senbei » (crackers spéciaux).",
+    "source": "Tradition shintō",
+    "confidence": "high",
+    "enabled": true
+  }
+]
